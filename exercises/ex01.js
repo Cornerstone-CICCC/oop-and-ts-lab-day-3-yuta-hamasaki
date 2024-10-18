@@ -17,4 +17,4 @@ students.push("Jim")
 const distance = calcDistance("Joe", "Jim")
 console.log(distance) // 3
 const distance2 = calcDistance("Joe", "Jill")
-console.log(distance) // 2
+console.log(distance2) // 2
